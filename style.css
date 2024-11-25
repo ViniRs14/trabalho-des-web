@@ -1,0 +1,20 @@
+body {
+    background: linear-gradient(45deg, #1a936f, #114b5f);
+    color: white;
+    font-family: 'Arial', sans-serif;
+  }
+  .quiz-container {
+    margin: 30px auto;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5);
+    background: #2d5d7c;
+    max-width: 600px;
+  }
+  .btn-custom {
+    background-color: #88d498;
+    border: none;
+  }
+  .btn-custom:hover {
+    background-color: #55a892;
+  }
